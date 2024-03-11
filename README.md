@@ -1,6 +1,6 @@
 # Smart Calculation by Alicardi // kidneyha
 
-![s21calc](/SmartCalc_v1.0/img/21calc.jpg)
+![s21calc](/img/21calc.jpg)
 
 ## Содержание
 
